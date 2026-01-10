@@ -13,18 +13,18 @@
 </p>
 
 ## 🚀 About Me 
-I’m a data analyst with a strong mathematical background who is passionate about helping organizations turn data into meaningful insights. I enjoy working with complex and unstructured datasets, transforming them into clear analyses that support better decision-making.
+I’m a mathematics student with a strong interest in data analysis and business intelligence, passionate about helping organizations turn data into meaningful insights. I enjoy working with complex and unstructured datasets and transforming them into clear analyses that support better decision-making.
 
-My focus is on building practical dashboards, performing exploratory and statistical analysis, and developing data models that help stakeholders understand trends and plan more effectively. I also enjoy automating data processing and analysis using tools like Python, Excel, and SPSS to improve efficiency and accuracy.
+My focus is on building practical dashboards, performing exploratory and statistical analysis, and developing data models that help stakeholders understand trends and plan more effectively. Through academic, internship, and project-based work, I’ve gained hands-on experience using tools such as Python, Excel, Power BI, Looker Studio, and SPSS.
 
-Beyond technical analysis, I bring strong skills in data documentation, reporting, and cross-functional collaboration. I’m experienced in translating analytical results into clear narratives, visual reports, and recommendations that can be understood by both technical and non-technical stakeholders. I value structured workflows, attention to detail, and strategic thinking, and I’m especially motivated by the “aha!” moment when data reveals patterns that drive meaningful decisions.
+Beyond technical analysis, I value clear data documentation, structured reporting, and collaboration across teams. I enjoy translating analytical results into intuitive visualizations and narratives that can be understood by both technical and non-technical audiences, and I’m especially motivated by the “aha!” moment when data reveals insights that lead to meaningful decisions.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://fadilaaysw.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Python Desktop Application:** Developing a desktop-based e-KTP application with automated ID generation, input validation, image handling, and data export to demonstrate Python-based system development.
+- **Project Python Desktop Application:** Developing a desktop-based e-KTP application with automated ID generation, input validation, image handling, and data export to demonstrate Python-based system development.
 - **Project Excel Data Visualization:** Analyzing disparities in access to drinking water across sub-districts in Sragen (2021–2024) using Excel-based visual analytics to support data-driven public policy insights.  
 - **Project Data Professional Survey Dashboard (Power BI):** Creating an interactive dashboard to analyze a global data professional survey, covering salary trends, job roles, programming language preferences, work-life balance, and entry barriers into the data field.
 - **Project Retail Transaction Analysis Dashboard (Looker Studio):** Building a retail transaction dashboard to monitor sales performance, revenue, profit, discounts, customer behavior, product categories, and payment methods through interactive business intelligence visuals using.
