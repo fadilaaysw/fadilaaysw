@@ -24,10 +24,10 @@ Beyond technical analysis, I bring strong skills in data documentation, reportin
       
 ## 🔭 What I'm Currently Working On 
 
-- **Python Application (Tkinter):** Developing a desktop-based e-KTP application with automated ID generation, input validation, image handling, and data export to demonstrate Python-based system development.
+- **Python Desktop Application:** Developing a desktop-based e-KTP application with automated ID generation, input validation, image handling, and data export to demonstrate Python-based system development.
 - **Project Excel Data Visualization:** Analyzing disparities in access to drinking water across sub-districts in Sragen (2021–2024) using Excel-based visual analytics to support data-driven public policy insights.  
-- **Project Power BI Dashboard:** Creating an interactive dashboard to analyze a global data professional survey, covering salary trends, job roles, programming language preferences, work-life balance, and entry barriers into the data field.
-- **Project Looker Studio Dashboard:** Building a retail transaction dashboard to monitor sales performance, revenue, profit, discounts, customer behavior, product categories, and payment methods through interactive business intelligence visuals.
+- **Project Data Professional Survey Dashboard (Power BI):** Creating an interactive dashboard to analyze a global data professional survey, covering salary trends, job roles, programming language preferences, work-life balance, and entry barriers into the data field.
+- **Project Retail Transaction Analysis Dashboard (Looker Studio):** Building a retail transaction dashboard to monitor sales performance, revenue, profit, discounts, customer behavior, product categories, and payment methods through interactive business intelligence visuals using.
 
 ## 🌱 Currently Learning 
 
