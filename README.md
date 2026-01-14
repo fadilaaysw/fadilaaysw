@@ -13,11 +13,9 @@
 </p>
 
 ## 🚀 About Me 
-I’m a mathematics student with a strong interest in data analysis and business intelligence, passionate about helping organizations turn data into meaningful insights. I enjoy working with complex and unstructured datasets and transforming them into clear analyses that support better decision-making.
+I’m a mathematics student with a strong interest in data analytics, customer insight, business intelligence, logistics, and finance. I enjoy transforming complex and unstructured data into meaningful insights that support better business and operational decisions.
 
-My focus is on building practical dashboards, performing exploratory and statistical analysis, and developing data models that help stakeholders understand trends and plan more effectively. Through academic, internship, and project-based work, I’ve gained hands-on experience using tools such as Python, Excel, Power BI, Looker Studio, and SPSS.
-
-Beyond technical analysis, I value clear data documentation, structured reporting, and collaboration across teams. I enjoy translating analytical results into intuitive visualizations and narratives that can be understood by both technical and non-technical audiences, and I’m especially motivated by the “aha!” moment when data reveals insights that lead to meaningful decisions.
+I have hands-on experience in building dashboards, performing exploratory and statistical analysis, and working with tools such as Python, Excel, Power BI, Looker Studio, and SPSS. I value clear reporting and effective data storytelling, and I’m motivated by using data to reveal patterns, improve efficiency, and drive informed decision-making across teams. I enjoy translating analytical results into intuitive visualizations and narratives that can be understood by both technical and non-technical audiences, and I’m especially motivated by the “aha!” moment when data reveals insights that lead to meaningful decisions.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://fadilaaysw.github.io/)
