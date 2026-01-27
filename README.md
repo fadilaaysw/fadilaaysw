@@ -13,9 +13,9 @@
 </p>
 
 ## 🚀 About Me 
-I’m a mathematics student with a strong interest in data analytics, customer insight, business intelligence, logistics, and finance. I enjoy transforming complex and unstructured data into meaningful insights that support better business and operational decisions.
+I am a mathematics student with a strong focus on data analytics, business intelligence, customer insight, and financial analysis. I have experience working with end-to-end data processes, ranging from data entry, validation, and database management to exploratory, statistical, and business-oriented analysis.
 
-I have hands-on experience in building dashboards, performing exploratory and statistical analysis, and working with tools such as Python, Excel, Power BI, Looker Studio, and SPSS. I value clear reporting and effective data storytelling, and I’m motivated by using data to reveal patterns, improve efficiency, and drive informed decision-making across teams. I enjoy translating analytical results into intuitive visualizations and narratives that can be understood by both technical and non-technical audiences, and I’m especially motivated by the “aha!” moment when data reveals insights that lead to meaningful decisions.
+Through academic, organizational, and project-based work, I have built interactive dashboards and analytical reports using tools such as Excel, Power BI, Looker Studio, SPSS, Python, and database systems including MS Access and relational database concepts (MySQL-based design). I value structured reporting and clear data storytelling, and I enjoy translating complex analytical results into intuitive visualizations that support operational, business, and risk-aware decision-making. I am especially motivated by the “aha!” moment when data patterns lead to actionable insights and meaningful improvements.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://fadilaaysw.github.io/)
