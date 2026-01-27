@@ -67,6 +67,6 @@ Through academic, organizational, and project-based work, I have built interacti
 #### Database & Data Modeling
 <p>
   <img src="https://img.shields.io/badge/MS%20Access-Intermediate-2E7D32?style=flat" alt="MS Access Skill Badge">
-  <img src="https://img.shields.io/badge/RDM-Intermediate-2E7D32?style=flat" alt="RDM Skill Badge">
+  <img src="https://img.shields.io/badge/ERD-Intermediate-2E7D32?style=flat" alt="ERD Skill Badge">
   <img src="https://img.shields.io/badge/Database%20Design-Beginner-1E88E5?style=flat" alt="Database Design Skill Badge">
 </p>
