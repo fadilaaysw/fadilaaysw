@@ -20,17 +20,20 @@ Through academic, organizational, and project-based work, I have built interacti
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://fadilaaysw.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 Selected Data & Analytics Projects 
 
-- **Project Python Desktop Application:** Developing a desktop-based e-KTP application with automated ID generation, input validation, image handling, and data export to demonstrate Python-based system development.
-- **Project Excel Data Visualization:** Analyzing disparities in access to drinking water across sub-districts in Sragen (2021–2024) using Excel-based visual analytics to support data-driven public policy insights.  
-- **Project Data Professional Survey Dashboard (Power BI):** Creating an interactive dashboard to analyze a global data professional survey, covering salary trends, job roles, programming language preferences, work-life balance, and entry barriers into the data field.
-- **Project Retail Transaction Analysis Dashboard (Looker Studio):** Building a retail transaction dashboard to monitor sales performance, revenue, profit, discounts, customer behavior, product categories, and payment methods through interactive business intelligence visuals using.
+- **Python-Based Desktop Application (Digital ID System):** Developing a desktop-based digital e-KTP application using Python, featuring structured input validation, automated ID generation, image handling, and export-ready outputs. This project demonstrates system logic design, data validation, and automation in a standalone application.
+- **Academic Information System Database Design (MySQL):** Designing and analyzing a relational database for an academic information system, including entity–relationship modeling, table structuring, and normalization. This project demonstrates foundational database design and data integrity principles.
+- **Electronic Store Sales Database System (MS Access):** Developing a transactional database system for an electronic retail store using MS Access, covering customer, product, employee, and sales transaction data. The project includes relational table design, query development, and reporting to support operational and managerial needs.
+- **Excel-Based Data Visualization (BPS Public Data Analysis):** Analyzing disparities in access to drinking water across sub-districts in Kabupaten Sragen (2021–2024) using Excel-based visual analytics. The project focuses on data cleaning, aggregation, trend analysis, and visualization to support evidence-based public policy insights.
+- **Statistical Analysis Using SPSS (BPS Datasets):** Conducting statistical analysis on multiple official datasets from BPS using SPSS, including data processing, descriptive statistics, and crosstabulation analysis. Due to data confidentiality, only selected output samples are presented, highlighting experience in handling sensitive and regulated data.
+- **Business Intelligence Dashboard – Data Professional Survey (Power BI):** Building an interactive Power BI dashboard to analyze a global data professional survey, covering salary distribution, job roles, programming language preferences, work-life balance, career satisfaction, and barriers to entering the data field. The dashboard emphasizes insight-driven storytelling for non-technical stakeholders.
+- **Retail Transaction Performance Dashboard (Looker Studio):** Designing and implementing an end-to-end retail transaction dashboard using Looker Studio, including requirements analysis, mockup design, data modeling, and interactive visualization. The dashboard provides insights into sales performance, revenue, profit, discount spending, customer behavior, product categories, and payment methods to support business decision-making.
 
-## 🌱 Currently Learning 
+## 🌱 Skills in Development 
 
-- Python for Data Analysis & Machine Learning — focusing on data manipulation, exploratory analysis, and building basic predictive models using libraries such as pandas, NumPy, and scikit-learn.
-- SQL for Data Analysis — learning to query, join, and analyze structured data to support reporting, dashboarding, and data-driven decision making.
+- Python for Data Analysis & Machine Learning — strengthening skills in data manipulation, exploratory analysis, and building basic predictive models using pandas, NumPy, and scikit-learn to support analytical workflows.
+- SQL for Data Analysis — developing proficiency in querying, joining, and analyzing structured data to support reporting, dashboarding, and data-driven decision-making.
 
 ## 🛠️ Technical Skillset
 
