@@ -42,22 +42,31 @@ Through academic, organizational, and project-based work, I have built interacti
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Beginner-1E88E5?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Intermediate-2E7D32?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Intermediate-2E7D32?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Looker%20Studio-Intermediate-2E7D32?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SPSS-Intermediate-2E7D32?style=flat&logo=powerbi&logoColor=black" alt="SPSS Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-2E7D32?style=flat&logo=microsoft-excel&logoColor=white" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/EDA-Intermediate-2E7D32?style=flat&logo=tableau&logoColor=white" alt="EDA Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Intermediate-2E7D32?style=flat&logo=tableau&logoColor=black" alt="Data Visualization Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-2E7D32?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-1E88E5?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/MySQL-Beginner-1E88E5?style=flat&logo=r&logoColor=white" alt="MySQL Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-1E88E5?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-2E7D32?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-1E88E5?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Beginner-1E88E5?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-Intermediate-2E7D32?style=flat" alt="Business Intelligence Skill Badge">
+  <img src="https://img.shields.io/badge/Reporting%20Documentation-Intermediate-2E7D32?style=flat" alt="Reporting Documentation Skill Badge">
+</p>
+
+#### Database & Data Modeling
+<p>
+  <img src="https://img.shields.io/badge/MS%20Access-Intermediate-2E7D32?style=flat&logo=python&logoColor=white" alt="MS Access Skill Badge">
+  <img src="https://img.shields.io/badge/RDM-Intermediate-2E7D32?style=flat&logo=python&logoColor=white" alt="RDM Skill Badge">
+  <img src="https://img.shields.io/badge/Database%20Design-Beginner-1E88E5?style=flat&logo=r&logoColor=white" alt="Database Design Skill Badge">
 </p>
