@@ -54,7 +54,7 @@ Through academic, organizational, and project-based work, I have built interacti
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-2E7D32?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/MySQL-Beginner-1E88E5?style=flat&logo=r&logoColor=white" alt="MySQL Skill Badge">
+  <img src="https://img.shields.io/badge/MySQL-Beginner-1E88E5?style=flat" alt="MySQL Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
@@ -66,7 +66,7 @@ Through academic, organizational, and project-based work, I have built interacti
 
 #### Database & Data Modeling
 <p>
-  <img src="https://img.shields.io/badge/MS%20Access-Intermediate-2E7D32?style=flat&logo=python&logoColor=white" alt="MS Access Skill Badge">
-  <img src="https://img.shields.io/badge/RDM-Intermediate-2E7D32?style=flat&logo=python&logoColor=white" alt="RDM Skill Badge">
-  <img src="https://img.shields.io/badge/Database%20Design-Beginner-1E88E5?style=flat&logo=r&logoColor=white" alt="Database Design Skill Badge">
+  <img src="https://img.shields.io/badge/MS%20Access-Intermediate-2E7D32?style=flat" alt="MS Access Skill Badge">
+  <img src="https://img.shields.io/badge/RDM-Intermediate-2E7D32?style=flat" alt="RDM Skill Badge">
+  <img src="https://img.shields.io/badge/Database%20Design-Beginner-1E88E5?style=flat" alt="Database Design Skill Badge">
 </p>
